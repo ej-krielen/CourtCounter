@@ -15,6 +15,6 @@
     <string name="main_button_reset">End game</string>
     <string name="main_toast_game_ended">Game ended.\u0020</string>
     <string name="main_toast_declare_winner">\u0020Is the winner!</string>
-    <string name="main_toast_score_tied">The score is a tied.</string>
+    <string name="main_toast_score_tied">The score is tied.</string>
 
 </resources>
