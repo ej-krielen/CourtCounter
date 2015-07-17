@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- General-->
+    <string name="app_name">Court Counter</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- To be sorted-->
+
+    <!-- Main-->
+    <string name="main_team_A">Team A</string>
+    <string name="main_team_B">Team B</string>
+    <string name="main_button_3_points">+3 Points</string>
+    <string name="main_button_2_points">+2 Points</string>
+    <string name="main_button_free_throw">Free Throw</string>
+    <string name="main_button_reset">End game</string>
+    <string name="main_toast_game_ended">Game ended.\u0020</string>
+    <string name="main_toast_declare_winner">\u0020Is the winner!</string>
+    <string name="main_toast_score_tied">The score is a tied.</string>
+
+</resources>
